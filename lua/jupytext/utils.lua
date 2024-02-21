@@ -6,6 +6,7 @@ local language_extensions = {
   r = "r",
   R = "r",
   bash = "sh",
+  scala = "sc",
 }
 
 M.get_ipynb_metadata = function(filename)
